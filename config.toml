@@ -2,4 +2,3 @@ baseURL = "https://blog.thetechtrap.com/"
 languageCode = "en-us"
 title = "The Tech Trap\nBlog"
 theme = "detox"
-canonifyURLs = true
