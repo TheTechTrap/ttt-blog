@@ -140,7 +140,7 @@ We have created a cool badge for the community which can be used to showcase the
 
 ![Gitopia](https://img.shields.io/endpoint?style=&url=https://gitopia.org/mirror-badge.json)
 
-You can use it in your `Readme.md` by adding:
+You can use it in your `README.md` by adding:
 
 ```
 [![Gitopia](https://img.shields.io/endpoint?style=&url=https://gitopia.org/mirror-badge.json)](gitopia-repo)
