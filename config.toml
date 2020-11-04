@@ -1,4 +1,9 @@
-baseURL = "https://blog.thetechtrap.com/"
+baseURL = "https://thetechtrap.com/"
 languageCode = "en-us"
-title = "The Tech Trap\nBlog"
+title = "The Tech Trap"
 theme = "detox"
+[params]
+    description = "Free yourself from the tech trap"
+[taxonomies]
+   tag = "tags"
+   category = "categories"
