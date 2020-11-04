@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "The Tech Trap"
 theme = "detox"
 [params]
-    description = "Free yourself from the tech trap"
+    description = "Freedom from The Tech Trap"
 [taxonomies]
    tag = "tags"
    category = "categories"
